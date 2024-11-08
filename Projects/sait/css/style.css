@@ -1,0 +1,24 @@
+@import url(../css/common/header.css);
+@import url(../css/common/main.css);
+h1{
+    font-family: 'Bebas Neue';
+}
+body{
+    background: #d98d00;
+}
+h2{
+    font-family: 'Bebas Neue';
+}
+li{
+    font-family: 'Open Sans';
+}
+a{
+    color: #c6f334;
+    font-family: 'Open Sans';
+}
+a:hover{
+    color: #87a526;
+}
+a:active{
+    color: chartreuse;
+}
